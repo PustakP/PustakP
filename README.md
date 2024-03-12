@@ -77,7 +77,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PustakP/PustakP/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -85,6 +85,4 @@
   <img src="https://profile-counter.glitch.me/PustakP/count.svg?"  />
 </div>
 
-###DEAD right now. working on a pretty sizeable project.
 
-![Pustak's GitHub stats](https://github-readme-stats.vercel.app/api?username=PustakP)
