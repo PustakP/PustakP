@@ -66,20 +66,16 @@
 
 ###
 
-
+  <img align="right" height="150" src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif"  />
 
 ###
-<div
-  style="display:flex; justify-content:centerl; align-items:center; gap:10px"
->
+
   <div align="center">
     <a href="https://open.spotify.com/user/jind53cf7ycnazluh7or73t9j">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=jind53cf7ycnazluh7or73t9j&count=5&unique=true" alt="Spotify recently played"  />
     </a>
   </div>
   
-  <img align="right" height="150" src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif"  />
-</div>
 
 ###
 
