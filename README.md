@@ -62,10 +62,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="20" alt="twitter logo"  />
   </a>
 </div>
+<br><br>
 
 ###
+<span align="middle">
+<img align="right" height="150" src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif"  /></span>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif"  />
 
 ###
 
